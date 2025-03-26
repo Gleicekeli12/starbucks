@@ -12,3 +12,4 @@
 
 <h2>Site do Starbucks</h2>
 
+<img src="https://github.com/Gleicekeli12/starbucks/blob/master/img/starbucks.PNG?raw=true" alt="site"/>
