@@ -18,15 +18,15 @@ Site do Starbucks desenvolvido durante as aulas no <a href="https://rodolfomori.
 
 1. Clone o repositório:
 
-```bash
-git clone https://github.com/Gleicekeli12/starbucks.git
-```
+  ```bash
+  git clone https://github.com/Gleicekeli12/starbucks.git
+  ```
 
 2. Acesse a pasta do projeto:
 
-```bash
-cd starbucks
-```
+  ```bash
+  cd starbucks
+  ```
 
 3. Abra o arquivo `index.html` no navegador.
 
