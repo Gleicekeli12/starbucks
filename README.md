@@ -2,6 +2,9 @@
 
 Site do Starbucks desenvolvido durante as aulas no <a href="https://rodolfomori.com.br/devclub">DevClub</a> com foco em prática de **HTML**, **CSS** e **JavaScript**.
 
+## 🌐 Descrição
+Página inspirada na Starbucks, com layout moderno e interativo. Desenvolvida para treinar responsividade, estilização e manipulação de elementos usando HTML, CSS e JavaScript.
+
 ## 💻 Tecnologias Utilizadas
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo-html" />
